@@ -1,0 +1,2 @@
+In "Requirments&Details" file is specification containing Acceptance Criteria and Test Cases (Test1, Test2, Test3).
+The project "FootballPool-soapui-project" contains implementation of tests using scripts in Groovy language.
